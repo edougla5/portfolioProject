@@ -1,0 +1,70 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+}
+
+h1 {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
+
+#name {
+    margin-left: 10px;
+    position:absolute;
+}
+
+#nav-element {
+    text-align: right;
+}
+
+#lorem {
+    width: 400px;
+    position: absolute;
+}
+
+#pic {
+    display: flex;
+    /* float: right; */
+    /* margin-right: 200px; */
+}
+
+#pic1 {
+    /* float: right; */
+    /* margin-right: 200px; */
+    display: none;
+    width: 400px;
+}
+
+#pic2 {
+    /* float: right; */
+    /* margin-right: 200px; */
+    width: 400px;
+    display: none;
+}
+
+#clickMe {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    /* margin-right: 200px; */
+    /* float: right; */
+}
+
+figure {
+    float: right;
+    margin-right: 200px;
+}
+
+#projects {
+    margin-top: 200px;
+}
+
+#skillsPic {
+    width: 500px;
+}
