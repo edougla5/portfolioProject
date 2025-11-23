@@ -23,6 +23,11 @@ body {
     text-align: right;
 }
 
+a {
+    text-decoration: none;
+    color: white;
+}
+
 #lorem {
     width: 400px;
     position: absolute;
@@ -67,4 +72,19 @@ figure {
 
 #skillsPic {
     width: 500px;
+}
+
+#contact {
+    position: absolute;
+    margin-top: 100px;
+}
+
+#email {
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+#github {
+    margin-top: 50px;
+    margin-left: 100px;
 }
